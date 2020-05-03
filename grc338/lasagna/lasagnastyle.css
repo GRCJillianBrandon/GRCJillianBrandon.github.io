@@ -1,0 +1,68 @@
+/*CSS DOCUMENT*/
+
+<style>
+  @import url("https://use.typekit.net/gfk7qij.css");
+</style>
+
+body{
+    background-color: rgba(50,0,0,0.1);
+   
+}
+div.container{
+    max-width: 40em;
+    margin: auto; 
+}
+h1 { 
+    color: rgb(150, 0, 0);
+    font-size: 2.5em; 
+    font-family: Georgia;
+    text-align: center;
+    margin: 1em, 2em, 1.5em, 0.5em; 
+}
+
+h2 {
+    color: rgb(0,0,0);
+    font-family: proxima nova;
+    font-weight: 700; 
+    font-style: normal;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase; 
+}
+
+h3 {
+    color: rgb(0,0,0);
+        font-family: proxima nova;
+    font-weight: 700; 
+    font-style: normal;
+    text-align: left;
+    font-size: 1.4em;
+    text-transform: capitalize; 
+}
+p{
+    color: rgb(150, 0, 0);
+    font-family: Georgia;  
+    font-size: 1.15em; 
+    text-align: center;
+}
+li{
+    font-family: Georgia;
+    font-size: 1em;
+}
+h6{
+    font-family: proxima nova;
+    font-weight: 300; 
+    font-style: italic;
+    font-size: .9em;
+    color: rgb(150, 0, 0);
+}
+footer{
+    float: none;
+    text-align: center;
+}
+img {
+    width: 100%;
+    align-content: center;
+    
+}
+
