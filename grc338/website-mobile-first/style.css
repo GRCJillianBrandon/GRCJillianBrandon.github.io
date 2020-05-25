@@ -1,8 +1,10 @@
 /*CSS DOCUMENT*/
 
-<style>@import url("https://use.typekit.net/gfk7qij.css");
-@import url("https://use.typekit.net/gfk7qij.css");
-</style>body {}
+
+
+body {
+    
+}
 
 img {
 	width: 100%;
@@ -11,26 +13,36 @@ img {
 
 div.navlogo {
 	margin: 2em;
+	padding-top: 3em;
+	color: rgb(0, 0, 0);
+    align-content: center; 
+    float: none; 
 }
 
 div.container {
 	max-width: 55em;
 	margin: auto;
+    float: none;
 }
 
 div.about {
 	max-width: 55em;
 	margin: auto;
+    float: none;
 }
 
 div.menu {
 	max-width: 55em;
 	margin: auto;
+    align-content: center;
+    text-align: center;
 }
 
 div.sandwiches {
 	max-width: 48em;
 	margin: auto;
+	text-align: center;
+	align-content: center;
 }
 
 div.salads {
@@ -44,9 +56,8 @@ div.bowls {
 }
 
 nav {
-	float: right;
-	padding-top: 3em;
-	padding-bottom: 4em;
+	float: center; 
+
 }
 
 nav ul {
@@ -57,26 +68,24 @@ nav ul {
 nav ul li {
 	list-style: none;
 	display: inline;
-	margin-right: 2em;
 	font-family: arpona, serif;
 	font-weight: 400;
 	font-style: normal;
 	color: rgb(0, 0, 0);
 	text-transform: uppercase;
+
 }
 
 h1 {
 	color: rgb(120, 0, 0);
-	color: rgb(0, 0, 0);
 	font-family: arpona, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 1.4em;
 	text-transform: capitalize;
 	font-size: 3.1em;
-	text-align: left;
+	text-align: center;
 	margin: 1em, 2em, 1.5em, 0.5em;
-	float: left;
+	float: center;
 }
 
 h2 {
@@ -87,7 +96,7 @@ h2 {
 	font-size: 2.1em;
 	text-transform: uppercase;
 	text-align: center;
-	padding-top: 6em;
+	padding-top: 1em;
 }
 
 h3 {
