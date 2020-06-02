@@ -16,7 +16,12 @@ div.navlogo {
 	padding-top: 3em;
 	color: rgb(0, 0, 0);
     align-content: center; 
-    float: none; 
+    float: left; 
+}
+
+div.navmenu {
+    align-content: center; 
+    padding-left: 2.9em; 
 }
 
 div.container {
@@ -36,6 +41,7 @@ div.menu {
 	margin: auto;
     align-content: center;
     text-align: center;
+    
 }
 
 div.sandwiches {
@@ -43,27 +49,21 @@ div.sandwiches {
 	margin: auto;
 	text-align: center;
 	align-content: center;
+    padding-right: .5em;
 }
 
 div.salads {
 	max-width: 48em;
 	margin: auto;
+    padding-right: .5em;
 }
 
 div.bowls {
 	max-width: 48em;
 	margin: auto;
+    padding-right: .5em;
 }
 
-nav {
-	float: center; 
-
-}
-
-nav ul {
-	padding: 0;
-	color: rgb(0, 0, 0);
-}
 
 nav ul li {
 	list-style: none;
